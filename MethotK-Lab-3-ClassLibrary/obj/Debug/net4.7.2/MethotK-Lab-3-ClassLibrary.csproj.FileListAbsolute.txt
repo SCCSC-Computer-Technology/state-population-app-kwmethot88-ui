@@ -1,0 +1,5 @@
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net4.7.2\MethotK-Lab-3-ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net4.7.2\MethotK-Lab-3-ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net4.7.2\MethotK-Lab-3-ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net4.7.2\MethotK-Lab-3-ClassLibrary.AssemblyInfo.cs
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net4.7.2\MethotK-Lab-3-ClassLibrary.csproj.CoreCompileInputs.cache
