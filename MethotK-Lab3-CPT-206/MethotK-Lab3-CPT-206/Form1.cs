@@ -1,15 +1,7 @@
 ﻿using MethotK_Lab_3_ClassLibrary;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using static MethotK_Lab3_CPT_206._Lab_3_Database_AccessDataSet;
-
 
 namespace MethotK_Lab3_CPT_206
 {
@@ -18,39 +10,23 @@ namespace MethotK_Lab3_CPT_206
         public Form1()
         {
             InitializeComponent();
-
-            
-        }
-
-        private void state_DatabaseBindingNavigatorSaveItem_Click(object sender, EventArgs e)
-        {
-            this.Validate();
-            this.state_DatabaseBindingSource.EndEdit();
-            this.tableAdapterManager.UpdateAll(this._Lab_3_Database_AccessDataSet);
-
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             try
             {
-                // TODO: This line of code loads data into the '_Lab_3_Database_AccessDataSet.State_Database' table. You can move, or remove it, as needed.
-                this.state_DatabaseTableAdapter.Fill(this._Lab_3_Database_AccessDataSet.State_Database);
+                DatabaseConnection db = new DatabaseConnection();
+                DataTable table = db.GetStates();
 
-                comboBoxState.DataSource = this._Lab_3_Database_AccessDataSet.State_Database;
+                comboBoxState.DataSource = table;
                 comboBoxState.DisplayMember = "State";
                 comboBoxState.ValueMember = "State";
             }
-            catch (Exception ex) 
+            catch (Exception ex)
             {
-                MessageBox.Show(ex.Message); 
+                MessageBox.Show(ex.Message);
             }
-
-        }
-
-        private void btnExit_Click(object sender, EventArgs e)
-        {
-            this.Close();
         }
 
         private void btnDetails_Click(object sender, EventArgs e)
@@ -65,10 +41,9 @@ namespace MethotK_Lab3_CPT_206
             {
                 string selectedState = comboBoxState.SelectedValue.ToString();
 
-                var table = new _Lab_3_Database_AccessDataSet.State_DatabaseDataTable();
-                this.state_DatabaseTableAdapter.FillByState(table, selectedState);
+                DatabaseConnection db = new DatabaseConnection();
+                DataTable table = db.GetStateByName(selectedState);
 
-               
                 Details window = new Details();
                 window.Load(table);
                 window.ShowDialog();
@@ -77,8 +52,11 @@ namespace MethotK_Lab3_CPT_206
             {
                 MessageBox.Show(ex.Message);
             }
+        }
 
-
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
         }
 
         private void btnFullDatabase_Click(object sender, EventArgs e)
