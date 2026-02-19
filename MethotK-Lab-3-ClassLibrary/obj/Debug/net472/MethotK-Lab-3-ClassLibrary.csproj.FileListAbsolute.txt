@@ -1,0 +1,9 @@
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\bin\Debug\net472\MethotK-Lab-3-ClassLibrary.dll
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\bin\Debug\net472\MethotK-Lab-3-ClassLibrary.pdb
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net472\MethotK-Lab-3-ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net472\MethotK-Lab-3-ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net472\MethotK-Lab-3-ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net472\MethotK-Lab-3-ClassLibrary.AssemblyInfo.cs
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net472\MethotK-Lab-3-ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net472\MethotK-Lab-3-ClassLibrary.dll
+C:\Users\rltka\source\repos\MethotK-Lab-3-ClassLibrary\obj\Debug\net472\MethotK-Lab-3-ClassLibrary.pdb
