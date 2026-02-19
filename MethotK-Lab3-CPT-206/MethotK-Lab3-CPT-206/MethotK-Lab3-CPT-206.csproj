@@ -144,8 +144,8 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MethotK-Lab-3-ClassLibrary\MethotK-Lab-3-ClassLibrary.csproj">
-      <Project>{d335874a-4f50-ad30-2cf1-dbf6346d4a20}</Project>
+    <ProjectReference Include="..\MethotK-Lab-3-ClassLibrary\MethotK-Lab-3-ClassLibrary.csproj">
+      <Project>{4d3509eb-c73a-ff8b-c556-e50d1b0319b7}</Project>
       <Name>MethotK-Lab-3-ClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
