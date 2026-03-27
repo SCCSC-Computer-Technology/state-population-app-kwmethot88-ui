@@ -1,0 +1,11 @@
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\bin\Debug\Lab-3-Database-Access.accdb
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\bin\Debug\MethotK-Lab3-CPT-206.exe.config
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\bin\Debug\MethotK-Lab3-CPT-206.exe
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\bin\Debug\MethotK-Lab3-CPT-206.pdb
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\obj\Debug\MethotK-Lab3-CPT-206.csproj.AssemblyReference.cache
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\obj\Debug\MethotK_Lab3_CPT_206.Form1.resources
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\obj\Debug\MethotK_Lab3_CPT_206.Properties.Resources.resources
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\obj\Debug\MethotK-Lab3-CPT-206.csproj.GenerateResource.cache
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\obj\Debug\MethotK-Lab3-CPT-206.csproj.CoreCompileInputs.cache
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\obj\Debug\MethotK-Lab3-CPT-206.exe
+C:\Users\rltka\source\repos\MethotK-Lab3-CPT-206\MethotK-Lab3-CPT-206\obj\Debug\MethotK-Lab3-CPT-206.pdb
